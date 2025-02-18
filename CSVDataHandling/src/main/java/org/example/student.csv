@@ -1,4 +1,5 @@
-ID,Name,Department,Salary
-101,John Doe,Engineering,60000
-102,Jane Smith,HR,50000
-103,Michael Brown,Marketing,55000
+ID,Name,age,marks
+101,John Doe,18,90
+102,Jane Smith,20,50
+103,Michael Brown,19,85
+104,kalpesh doble,19,55
